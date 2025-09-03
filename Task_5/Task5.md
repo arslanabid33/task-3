@@ -19,3 +19,6 @@ To monitor traffic and activity on the site, I used standard Linux command-line 
 To automate this process, I created a bash script (monitor_hits.sh) that watches the access log in real time. The script reads each new log entry as it arrives, increments a hit counter, and prints useful request details such as the IP address, requested URL, and response status. This provided a lightweight, live overview of how the site was being accessed.
 
 This task helped reinforce key concepts around Apache configuration, Linux filesystem structure, virtual hosting, and basic log analysis — all essential components in web server administration and DevOps practice
+
+<img width="1366" height="725" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/d139e4b2-eed7-4c82-8506-1f8cc2f502da" />
+<img width="1366" height="727" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/d6a7603a-888b-4ea3-a58c-67d414a5da99" />
